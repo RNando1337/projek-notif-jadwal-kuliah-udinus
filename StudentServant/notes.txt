@@ -1,0 +1,30 @@
+Dear Customer,
+
+Welcome to CloudSigma! Your account in Clark, Philippines is ready to use.
+
+There's one final step before you start - just visit this link to set up your password and activate your trial: https://crk.cloudsigma.com/ui/4.0/activate/mbh-5yd-ba662a8c5c9ba12bd8a1
+
+After that you can access your account from the WebApp login: https://crk.cloudsigma.com/ui/?username=gijod72673%40chatich.com
+
+FREE TIER RESOURCES
+We have decided to reward every single CloudSigma customer with a free tier of lifetime resources:
+* 1GB RAM
+* 50 GB of storage on our high performance SSD storage
+* 5 TB of free outgoing data every month (we never charge for incoming data transfer)
+
+FAST SERVERS, GREAT PRICES
+Our servers start from as little as $10 per month and take under a minute to create and start. You can calculate your computing costs at https://www.cloudsigma.com/pricing
+or alternatively you can contact our sales executives at sales@cloudsigma.com who can answer any commercial questions you might have.
+
+We are always keen on improving, and would love to hear your feedback. Please e-mail us at: feedback@cloudsigma.com
+
+Thank you for using our cloud. We wish you happy computing.
+
+The CloudSigma Team
+
+
+Email gijod72673@chatich.com
+
+Success: Traffic from 103.253.24.78:1746 forward to [2a01:4f8:151:334b:face:101f:1447:0001]:22
+
+if you have an active VPS then the port will be valid for as long as the VPS is active, otherwise the port will be valid for 7 days. 
